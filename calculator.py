@@ -53,3 +53,5 @@ while True:
             print(f"{num1} / {num2} = {result}")
     else:
         print("Invalid input. Please enter a valid choice (1/2/3/4/5).")
+        
+print("End of the program")
